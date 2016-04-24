@@ -1,4 +1,4 @@
-package com.kissthinker.specs
+package com.kissthinker.specs2
 
 import org.specs2.execute._
 import org.specs2.mutable.Around
